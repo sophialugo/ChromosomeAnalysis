@@ -1,9 +1,12 @@
 ---
----
+#project_title{
+  font-size: 20px;
+  color: blue;
+}
 
 @import "{{ site.theme }}";
 
-title{
+#project_title{
   font-size: 20px;
   color: blue;
 }
