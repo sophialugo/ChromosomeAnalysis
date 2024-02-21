@@ -5,4 +5,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: ["Clearer Views for Cancer Research: Upgrading Chromosome Analysis"]
-description: ["Studying ecDNA and oncogene amplification using instance segmentation."]
+description: ["UC San Diego, Halıcıoğlu Data Science Institute"]
